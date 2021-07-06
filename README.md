@@ -12,9 +12,9 @@ We'll be writing code that will turn [this page with no JavaScript](https://domo
 
 No need for event listeners for this one. Just flex those querySelectors muscles!
 
-1. Change the span with the class `mess-with-me` to have a font size of 40px.
+<!-- 1. Change the span with the class `mess-with-me` to have a font size of 40px. -->
 
-2. Change the paragraph with the class `mess-with-me` to have a background color of green.
+<!-- 2. Change the paragraph with the class `mess-with-me` to have a background color of green. -->
 
 3. Hide the second dinosaur's image so that it's no longer visible, and so that the area below it moves up to take the space. If you're not sure of how to do this, look up the CSS rule for that!
 
